@@ -1,0 +1,30 @@
+[
+  {
+    "name": "gallery",
+    "path": "/gallery",
+    "component": "C:\\\\Users\\\\Janek\\\\PWA_project\\\\pages\\\\gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_46d83b58"
+  },
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "C:\\\\Users\\\\Janek\\\\PWA_project\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_04b57f2e"
+  },
+  {
+    "name": "Nasa",
+    "path": "/Nasa",
+    "component": "C:\\\\Users\\\\Janek\\\\PWA_project\\\\pages\\\\Nasa.vue",
+    "chunkName": "pages/Nasa",
+    "_name": "_db4c746a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Janek\\\\PWA_project\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_d8641f50"
+  }
+]
